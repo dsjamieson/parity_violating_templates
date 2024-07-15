@@ -1,0 +1,5 @@
+*.o
+Software/*/build/*
+Software/*/bin/*
+!Software/*/build/.gitkeep
+!Software/*/bin/*/.gitkeep
